@@ -27,11 +27,10 @@ Recognition Framework [`paper`](http://openaccess.thecvf.com/content_ICCV_2017/p
 - [2017-CVPR] Detecting oriented text in natural images by linking segments [`paper`](http://mc.eistar.net/UpLoadFiles/Papers/SegLink_CVPR17.pdf) [`code`](https://github.com/bgshih/seglink)
 
 ## Repository
-
-### [运用tensorflow实现自然场景文字检测,keras/pytorch实现crnn+ctc实现不定长中文OCR识别](https://github.com/chineseocr/chinese-ocr)
-### [Training SEE: Towards Semi-Supervised End-to-End Scene Text Recognition](https://github.com/Bartzi/see)
-### [Train TextBoxes++: A Single-Shot Oriented Scene Text Detector](https://github.com/MhLiao/TextBoxes_plusplus) 
-### [Train CTPN](https://github.com/eragonruan/text-detection-ctpn)
+- [运用tensorflow实现自然场景文字检测,keras/pytorch实现crnn+ctc实现不定长中文OCR识别](https://github.com/chineseocr/chinese-ocr)
+- [Training SEE: Towards Semi-Supervised End-to-End Scene Text Recognition](https://github.com/Bartzi/see)
+- [Train TextBoxes++: A Single-Shot Oriented Scene Text Detector](https://github.com/MhLiao/TextBoxes_plusplus) 
+- [Train CTPN](https://github.com/eragonruan/text-detection-ctpn)
 
 ## Datasets
 - [`COCO-Text (Computer Vision Group, Cornell)`](http://vision.cornell.edu/se3/coco-text/)   `2016`
