@@ -35,6 +35,8 @@ Recognition Framework [`paper`](http://openaccess.thecvf.com/content_ICCV_2017/p
 - [SynthText_Chinese_version](https://github.com/JarveeLee/SynthText_Chinese_version)
 
 ## Datasets
+- [`PowerPoint Text Detection and Recognition Dataset`](https://gitlab.com/rex-yue-wu/ISI-PPT-Dataset) `2017`
+
 - [`COCO-Text (Computer Vision Group, Cornell)`](http://vision.cornell.edu/se3/coco-text/)   `2016`
   - 63,686 images, 173,589 text instances, 3 fine-grained text attributes.
   - Task: text location and recognition
