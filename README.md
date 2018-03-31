@@ -31,6 +31,8 @@ Recognition Framework [`paper`](http://openaccess.thecvf.com/content_ICCV_2017/p
 - [Training SEE: Towards Semi-Supervised End-to-End Scene Text Recognition](https://github.com/Bartzi/see)
 - [Train TextBoxes++: A Single-Shot Oriented Scene Text Detector](https://github.com/MhLiao/TextBoxes_plusplus) 
 - [Train CTPN](https://github.com/eragonruan/text-detection-ctpn)
+- [SynthText 生成图像文本](https://github.com/ankush-me/SynthText)
+- [SynthText_Chinese_version](https://github.com/JarveeLee/SynthText_Chinese_version)
 
 ## Datasets
 - [`COCO-Text (Computer Vision Group, Cornell)`](http://vision.cornell.edu/se3/coco-text/)   `2016`
